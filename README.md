@@ -1,1 +1,5 @@
-# simnple-lotery-dapp
+# simple-lotery-dapp
+
+Simple lotery dapp using ReactJs &amp; Solidity
+
+Project for  [Blockchain bootcamp](https://www.udemy.com/course/bootcamp-blockchain-cero-experto/) from Joan Amengual 
